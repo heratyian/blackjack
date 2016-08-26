@@ -1,4 +1,4 @@
-blackjack written in python
-open 'game.py' with python3
+## blackjack written in python
+##open 'game.py' with python3
 
 
